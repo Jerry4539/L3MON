@@ -1,0 +1,122 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "94754d0abb89e4cf0a7f1c494dbb9d2c",
+    "loginToken": "a4e21a8ccd25564141ec75134d34bde2",
+    "logs": [
+      {
+        "time": "2022-07-30T04:42:00.758Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.14.1\". Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-07-30T05:02:31.460Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.14.1\". Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-07-30T05:34:01.573Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-30T06:02:56.242Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-30T19:16:16.048Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-30T19:16:37.099Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-31T05:54:16.207Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-31T05:58:13.366Z",
+        "type": "INFO",
+        "message": "9652c8b5d8e6ef4 Connected"
+      },
+      {
+        "time": "2022-07-31T05:59:14.927Z",
+        "type": "INFO",
+        "message": "9652c8b5d8e6ef4 Connected"
+      },
+      {
+        "time": "2022-07-31T05:59:49.907Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 9652c8b5d8e6ef4"
+      },
+      {
+        "time": "2022-07-31T05:59:56.205Z",
+        "type": "SUCCESS",
+        "message": "9652c8b5d8e6ef4 Call Log Updated - 1078 New Calls"
+      },
+      {
+        "time": "2022-07-31T06:01:04.767Z",
+        "type": "INFO",
+        "message": "9652c8b5d8e6ef4 Notification Recieved"
+      },
+      {
+        "time": "2022-07-31T06:01:10.444Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 9652c8b5d8e6ef4"
+      },
+      {
+        "time": "2022-07-31T06:01:21.195Z",
+        "type": "SUCCESS",
+        "message": "9652c8b5d8e6ef4 SENT SMS"
+      },
+      {
+        "time": "2022-07-31T06:01:24.541Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 9652c8b5d8e6ef4"
+      },
+      {
+        "time": "2022-07-31T06:01:26.277Z",
+        "type": "SUCCESS",
+        "message": "9652c8b5d8e6ef4 SENT SMS"
+      },
+      {
+        "time": "2022-07-31T06:01:56.990Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 9652c8b5d8e6ef4"
+      },
+      {
+        "time": "2022-07-31T06:01:57.479Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-31T06:02:27.485Z",
+        "type": "INFO",
+        "message": "9652c8b5d8e6ef4 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "9652c8b5d8e6ef4",
+      "firstSeen": "2022-07-31T05:58:13.348Z",
+      "lastSeen": "2022-07-31T06:02:27.486Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "10.9.0.1",
+        "clientGeo": {},
+        "device": {
+          "model": "CPH1729",
+          "manufacture": "OPPO",
+          "version": "7.1.1"
+        }
+      }
+    }
+  ]
+}
